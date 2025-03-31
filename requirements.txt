@@ -1,0 +1,10 @@
+ultralytics
+cvzone
+opencv-python
+python-telegram-bot==20.3
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+requests
+cryptography
+pytest
+pygame

@@ -1,0 +1,10 @@
+2025-03-30 19:57:22,612 - fire_detector - INFO - Fire detector initialized successfully
+2025-03-30 20:00:14,359 - fire_detector - INFO - Fire detector initialized successfully
+2025-03-30 20:00:35,042 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7985622666:AAGhc0ESp262PZ29Zr-hIupIHgp3x2WY-r8/sendPhoto "HTTP/1.1 200 OK"
+2025-03-30 20:00:45,115 - fire_detector - INFO - Fire detector initialized successfully
+2025-03-30 20:01:04,738 - fire_detector - INFO - Fire detector initialized successfully
+2025-03-30 20:01:43,814 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7985622666:AAGhc0ESp262PZ29Zr-hIupIHgp3x2WY-r8/sendPhoto "HTTP/1.1 200 OK"
+2025-03-30 20:06:48,667 - fire_detector - INFO - Fire detector initialized successfully
+2025-03-30 20:07:25,259 - fire_detector - INFO - Fire detector initialized successfully
+2025-03-30 20:11:29,275 - fire_detector - INFO - Fire detector initialized successfully
+2025-03-30 20:11:46,897 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7985622666:AAGhc0ESp262PZ29Zr-hIupIHgp3x2WY-r8/sendPhoto "HTTP/1.1 200 OK"
